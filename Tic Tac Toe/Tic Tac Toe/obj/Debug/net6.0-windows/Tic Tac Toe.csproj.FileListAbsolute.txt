@@ -1,0 +1,20 @@
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.exe
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.deps.json
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\bin\Debug\net6.0-windows\Tic Tac Toe.pdb
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Form1.resources
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\refint\Tic Tac Toe.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.pdb
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\ref\Tic Tac Toe.dll
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Form2.resources
+C:\Users\Administrator\Desktop\GıtHub Projeler\Tic Tac Toe\Tic Tac Toe\obj\Debug\net6.0-windows\Tic_Tac_Toe.Form3.resources
